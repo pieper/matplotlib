@@ -59,6 +59,13 @@ def _backend_selection():
         current backend is compatible with the current running event
         loop, and if not switches to a compatible one.
     """
+    if 'qt' in sys.modules:
+      import qt
+      try:
+        qt.qApp
+        isPyQt = True
+      except AttributeError:
+        isPyQt = False
     backend = rcParams['backend']
     if not rcParams['backend_fallback'] or \
                      backend not in _interactive_bk:
@@ -68,7 +75,7 @@ def _backend_selection():
         import wx
         if wx.App.IsMainLoopRunning():
             rcParams['backend'] = 'wx' + 'Agg' * is_agg_backend
-    elif 'qt' in sys.modules and not backend == 'QtAgg':
+    elif isPyQt and not backend == 'QtAgg':
         import qt
         if not qt.qApp.startingUp():
             # The mainloop is running.
