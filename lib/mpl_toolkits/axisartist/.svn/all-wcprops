@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8700/branches/v1_0_maint/lib/mpl_toolkits/axisartist
+END
+axis_artist.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8700/branches/v1_0_maint/lib/mpl_toolkits/axisartist/axis_artist.py
+END
+axisline_style.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/axisline_style.py
+END
+grid_finder.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/grid_finder.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/__init__.py
+END
+axislines.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8603/branches/v1_0_maint/lib/mpl_toolkits/axisartist/axislines.py
+END
+clip_path.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/clip_path.py
+END
+floating_axes.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/floating_axes.py
+END
+grid_helper_curvelinear.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py
+END
+angle_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axisartist/angle_helper.py
+END

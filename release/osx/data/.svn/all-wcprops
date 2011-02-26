@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/release/osx/data
+END
+bdist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/release/osx/data/bdist.patch
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/release/osx/data/ReadMe.txt
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/release/osx/data/setup.cfg
+END

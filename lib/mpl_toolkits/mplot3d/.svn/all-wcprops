@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8794/branches/v1_0_maint/lib/mpl_toolkits/mplot3d
+END
+axis3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8794/branches/v1_0_maint/lib/mpl_toolkits/mplot3d/axis3d.py
+END
+art3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/mplot3d/art3d.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/mplot3d/__init__.py
+END
+proj3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/mplot3d/proj3d.py
+END
+axes3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8610/branches/v1_0_maint/lib/mpl_toolkits/mplot3d/axes3d.py
+END

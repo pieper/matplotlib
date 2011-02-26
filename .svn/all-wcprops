@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/matplotlib/!svn/ver/8955/branches/v1_0_maint
+END
+make.osx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/make.osx
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/setup.py
+END
+DEVNOTES
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/DEVNOTES
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/matplotlib/!svn/ver/8955/branches/v1_0_maint/CHANGELOG
+END
+boilerplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/boilerplate.py
+END
+SEGFAULTS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/SEGFAULTS
+END
+FILETYPES
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/FILETYPES
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/TODO
+END
+README.osx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/README.osx
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/INSTALL
+END
+matplotlibrc.template
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8815/branches/v1_0_maint/matplotlibrc.template
+END
+MIGRATION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/MIGRATION.txt
+END
+setup.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/setup.cfg.template
+END
+setupext.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/setupext.py
+END
+license.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/license.py
+END
+setupegg.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/setupegg.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/MANIFEST.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/README.txt
+END
+KNOWN_BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/KNOWN_BUGS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/Makefile
+END
+INTERACTIVE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/INTERACTIVE
+END

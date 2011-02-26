@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext
+END
+gen_gallery.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext/gen_gallery.py
+END
+inheritance_diagram.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext/inheritance_diagram.py
+END
+gen_rst.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext/gen_rst.py
+END
+mathml.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext/mathml.py
+END
+math_symbol_table.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/sphinxext/math_symbol_table.py
+END

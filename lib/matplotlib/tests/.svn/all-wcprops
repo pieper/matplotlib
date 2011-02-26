@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8926/branches/v1_0_maint/lib/matplotlib/tests
+END
+test_simplification.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8691/branches/v1_0_maint/lib/matplotlib/tests/test_simplification.py
+END
+test_mlab.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_mlab.py
+END
+test_cbook.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_cbook.py
+END
+test_agg.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_agg.py
+END
+test_mathtext.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_mathtext.py
+END
+test_transforms.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_transforms.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/__init__.py
+END
+test_axes.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8926/branches/v1_0_maint/lib/matplotlib/tests/test_axes.py
+END
+test_dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_dates.py
+END
+test_basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_basic.py
+END
+test_spines.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_spines.py
+END
+test_image.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8612/branches/v1_0_maint/lib/matplotlib/tests/test_image.py
+END
+test_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_text.py
+END
+test_backend_svg.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/test_backend_svg.py
+END

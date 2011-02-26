@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/matplotlib/!svn/ver/8899/branches/v1_0_maint/doc
+END
+contents.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/contents.rst
+END
+make.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/make.py
+END
+mpl_examples
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/mpl_examples
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/README.txt
+END
+matplotlibrc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matplotlib/!svn/ver/8899/branches/v1_0_maint/doc/matplotlibrc
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/conf.py
+END

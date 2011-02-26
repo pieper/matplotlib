@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/src/platform/BeOS
+END
+agg_platform_support.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/src/platform/BeOS/agg_platform_support.cpp
+END

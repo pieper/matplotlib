@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units
+END
+UnitDblConverter.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/UnitDblConverter.py
+END
+Epoch.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/Epoch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/__init__.py
+END
+StrConverter.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/StrConverter.py
+END
+UnitDbl.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/UnitDbl.py
+END
+Duration.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/Duration.py
+END
+UnitDblFormatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/UnitDblFormatter.py
+END
+EpochConverter.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/jpl_units/EpochConverter.py
+END

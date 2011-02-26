@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/tests
+END
+test_tzinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/tests/test_tzinfo.py
+END
+test_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/tests/test_docs.py
+END

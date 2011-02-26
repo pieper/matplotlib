@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8614/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1
+END
+mpl_axes.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/mpl_axes.py
+END
+parasite_axes.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/parasite_axes.py
+END
+axes_rgb.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/axes_rgb.py
+END
+axes_size.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/axes_size.py
+END
+anchored_artists.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/anchored_artists.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/__init__.py
+END
+colorbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8614/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/colorbar.py
+END
+axes_grid.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/axes_grid.py
+END
+inset_locator.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/inset_locator.py
+END
+axes_divider.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/mpl_toolkits/axes_grid1/axes_divider.py
+END

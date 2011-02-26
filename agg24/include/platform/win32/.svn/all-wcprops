@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/include/platform/win32
+END
+agg_win32_bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/include/platform/win32/agg_win32_bmp.h
+END

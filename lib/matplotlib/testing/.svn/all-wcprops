@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/__init__.py
+END
+noseclasses.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/noseclasses.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/decorators.py
+END
+compare.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/testing/compare.py
+END

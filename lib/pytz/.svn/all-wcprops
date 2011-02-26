@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/LICENSE.txt
+END
+tzinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/tzinfo.py
+END
+tzfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/tzfile.py
+END
+reference.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/reference.py
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/CHANGES.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/__init__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/README.txt
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8841/branches/v1_0_maint/lib/matplotlib/tri
+END
+tricontour.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8559/branches/v1_0_maint/lib/matplotlib/tri/tricontour.py
+END
+_tri.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tri/_tri.h
+END
+tripcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tri/tripcolor.py
+END
+triplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8841/branches/v1_0_maint/lib/matplotlib/tri/triplot.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tri/__init__.py
+END
+triangulation.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tri/triangulation.py
+END
+_tri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8714/branches/v1_0_maint/lib/matplotlib/tri/_tri.cpp
+END

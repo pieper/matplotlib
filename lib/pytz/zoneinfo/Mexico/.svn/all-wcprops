@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/zoneinfo/Mexico
+END
+BajaNorte
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Mexico/BajaNorte
+END
+BajaSur
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/zoneinfo/Mexico/BajaSur
+END
+General
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Mexico/General
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/zoneinfo/Canada
+END
+Atlantic
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Atlantic
+END
+Eastern
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Eastern
+END
+Newfoundland
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Newfoundland
+END
+Yukon
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Yukon
+END
+East-Saskatchewan
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/East-Saskatchewan
+END
+Central
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Central
+END
+Mountain
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Mountain
+END
+Saskatchewan
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Saskatchewan
+END
+Pacific
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/pytz/zoneinfo/Canada/Pacific
+END

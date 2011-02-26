@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/matplotlib/!svn/ver/8897/branches/v1_0_maint/doc/api
+END
+figure_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/figure_api.rst
+END
+path_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/path_api.rst
+END
+cbook_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/cbook_api.rst
+END
+backend_qt4agg_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/backend_qt4agg_api.rst
+END
+cm_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/cm_api.rst
+END
+type1font.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/type1font.rst
+END
+font_manager_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/font_manager_api.rst
+END
+axes_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/axes_api.rst
+END
+colors_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/colors_api.rst
+END
+units_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/units_api.rst
+END
+afm_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/afm_api.rst
+END
+axis_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/axis_api.rst
+END
+api_changes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8559/branches/v1_0_maint/doc/api/api_changes.rst
+END
+backend_gtkagg_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/backend_gtkagg_api.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/matplotlib/!svn/ver/8524/branches/v1_0_maint/doc/api/index.rst
+END
+collections_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/collections_api.rst
+END
+index_backend_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/index_backend_api.rst
+END
+backend_pdf_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/backend_pdf_api.rst
+END
+ticker_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/ticker_api.rst
+END
+backend_wxagg_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/backend_wxagg_api.rst
+END
+dviread.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/dviread.rst
+END
+pyplot_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/pyplot_api.rst
+END
+matplotlib_configuration_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/matplotlib_configuration_api.rst
+END
+mathtext_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/mathtext_api.rst
+END
+gridspec_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8897/branches/v1_0_maint/doc/api/gridspec_api.rst
+END
+dates_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/dates_api.rst
+END
+colorbar_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/colorbar_api.rst
+END
+backend_bases_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/backend_bases_api.rst
+END
+nxutils_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/nxutils_api.rst
+END
+artist_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/artist_api.rst
+END
+mlab_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/mlab_api.rst
+END
+spine_api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/api/spine_api.rst
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc
+END
+tight_bbox_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/tight_bbox_test.py
+END
+multiprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/multiprocess.py
+END
+rc_traits.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/rc_traits.py
+END
+font_indexing.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/font_indexing.py
+END
+rec_join_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/rec_join_demo.py
+END
+svg_filter_pie.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/svg_filter_pie.py
+END
+rasterization_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/rasterization_demo.py
+END
+sample_data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/sample_data_test.py
+END
+svg_filter_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/svg_filter_line.py
+END
+ftface_props.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/ftface_props.py
+END
+sample_data_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/sample_data_demo.py
+END
+longshort.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/longshort.py
+END
+rec_groupby_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/rec_groupby_demo.py
+END
+image_thumbnail.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/image_thumbnail.py
+END
+contour_manual.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/misc/contour_manual.py
+END

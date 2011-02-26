@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit
+END
+override_builtins.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/override_builtins.py
+END
+compare_backend_driver_results.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/compare_backend_driver_results.py
+END
+agg_memleak.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/agg_memleak.py
+END
+memleak_nongui.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/memleak_nongui.py
+END
+cbook_unit.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/cbook_unit.py
+END
+legend_unit.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/legend_unit.py
+END
+inside_poly_profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/inside_poly_profile.py
+END
+dates_unit.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/dates_unit.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/__init__.py
+END
+ellipse_compare.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/ellipse_compare.py
+END
+threading_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/threading_test.py
+END
+ellipse_large.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/ellipse_large.py
+END
+inside_poly_memleak.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/inside_poly_memleak.py
+END
+mlab_unit.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/mlab_unit.py
+END
+test_pdf_use14corefonts.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/test_pdf_use14corefonts.py
+END
+test_wxagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/test_wxagg.py
+END
+ft2font_memleak.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/ft2font_memleak.py
+END
+memleak_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/memleak_gui.py
+END
+memleak_hawaii3.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/memleak_hawaii3.py
+END
+longs_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/longs_test.py
+END
+auto_legend.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/auto_legend.py
+END
+nose_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/unit/nose_tests.py
+END

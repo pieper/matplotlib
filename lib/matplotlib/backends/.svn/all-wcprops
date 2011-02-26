@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8913/branches/v1_0_maint/lib/matplotlib/backends
+END
+backend_ps.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8906/branches/v1_0_maint/lib/matplotlib/backends/backend_ps.py
+END
+backend_qt.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8562/branches/v1_0_maint/lib/matplotlib/backends/backend_qt.py
+END
+backend_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8913/branches/v1_0_maint/lib/matplotlib/backends/backend_gtk.py
+END
+tkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/tkagg.py
+END
+backend_qt4agg.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_qt4agg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/__init__.py
+END
+backend_macosx.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8886/branches/v1_0_maint/lib/matplotlib/backends/backend_macosx.py
+END
+backend_cairo.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_cairo.py
+END
+backend_tkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8758/branches/v1_0_maint/lib/matplotlib/backends/backend_tkagg.py
+END
+backend_agg.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_agg.py
+END
+backend_wx.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8767/branches/v1_0_maint/lib/matplotlib/backends/backend_wx.py
+END
+windowing.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/windowing.py
+END
+backend_svg.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8842/branches/v1_0_maint/lib/matplotlib/backends/backend_svg.py
+END
+backend_gtkcairo.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_gtkcairo.py
+END
+backend_cocoaagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8562/branches/v1_0_maint/lib/matplotlib/backends/backend_cocoaagg.py
+END
+backend_qtagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_qtagg.py
+END
+backend_gtkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_gtkagg.py
+END
+backend_gdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_gdk.py
+END
+backend_mixed.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_mixed.py
+END
+backend_emf.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_emf.py
+END
+backend_qt4.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8845/branches/v1_0_maint/lib/matplotlib/backends/backend_qt4.py
+END
+backend_pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_pdf.py
+END
+backend_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_template.py
+END
+backend_wxagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/backends/backend_wxagg.py
+END
+backend_fltkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8562/branches/v1_0_maint/lib/matplotlib/backends/backend_fltkagg.py
+END

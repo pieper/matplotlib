@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay
+END
+_delaunay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/_delaunay.cpp
+END
+delaunay_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/delaunay_utils.cpp
+END
+natneighbors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/natneighbors.cpp
+END
+testfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/testfuncs.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/__init__.py
+END
+triangulate.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/triangulate.py
+END
+VoronoiDiagramGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/VoronoiDiagramGenerator.cpp
+END
+delaunay_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/delaunay_utils.h
+END
+natneighbors.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/natneighbors.h
+END
+VoronoiDiagramGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/VoronoiDiagramGenerator.h
+END
+interpolate.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/delaunay/interpolate.py
+END

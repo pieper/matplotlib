@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/matplotlib/!svn/ver/8785/branches/v1_0_maint/doc/users
+END
+arraydata.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/arraydata.rst
+END
+annotations_intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/annotations_intro.rst
+END
+toolkits.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8677/branches/v1_0_maint/doc/users/toolkits.rst
+END
+annotations_guide.rst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8785/branches/v1_0_maint/doc/users/annotations_guide.rst
+END
+pyplot_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/pyplot_tutorial.rst
+END
+legend_guide.rst
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/legend_guide.rst
+END
+index_text.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/index_text.rst
+END
+customizing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/customizing.rst
+END
+usetex.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/usetex.rst
+END
+path_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/path_tutorial.rst
+END
+navigation_toolbar.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/navigation_toolbar.rst
+END
+transforms_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8754/branches/v1_0_maint/doc/users/transforms_tutorial.rst
+END
+license.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/license.rst
+END
+event_handling.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8723/branches/v1_0_maint/doc/users/event_handling.rst
+END
+artists.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/artists.rst
+END
+recipes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8785/branches/v1_0_maint/doc/users/recipes.rst
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/intro.rst
+END
+credits.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/credits.rst
+END
+mathtext.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/mathtext.rst
+END
+text_intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/text_intro.rst
+END
+whats_new.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/whats_new.rst
+END
+gridspec.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8785/branches/v1_0_maint/doc/users/gridspec.rst
+END
+plotting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/plotting.rst
+END
+screenshots.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/screenshots.rst
+END
+installing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/installing.rst
+END
+image_tutorial.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8785/branches/v1_0_maint/doc/users/image_tutorial.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8769/branches/v1_0_maint/doc/users/index.rst
+END
+shell.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/shell.rst
+END
+text_props.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/doc/users/text_props.rst
+END

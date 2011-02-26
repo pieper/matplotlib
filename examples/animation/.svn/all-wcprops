@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8911/branches/v1_0_maint/examples/animation
+END
+gtk_timeout.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/gtk_timeout.py
+END
+animate_decay_tk_blit.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/animate_decay_tk_blit.py
+END
+animation_blit_qt.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/animation_blit_qt.py
+END
+animation_blit_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/examples/animation/animation_blit_gtk.py
+END
+dynamic_collection.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/dynamic_collection.py
+END
+simple_anim_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/simple_anim_gtk.py
+END
+simple_idle_wx.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/simple_idle_wx.py
+END
+dynamic_image_wxagg2.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/dynamic_image_wxagg2.py
+END
+animation_blit_wx.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/animation_blit_wx.py
+END
+simple_timer_wx.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/simple_timer_wx.py
+END
+animation_blit_fltk.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/animation_blit_fltk.py
+END
+histogram_tkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/histogram_tkagg.py
+END
+dynamic_image_gtkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/dynamic_image_gtkagg.py
+END
+simple_anim_tkagg.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/simple_anim_tkagg.py
+END
+animation_blit_gtk2.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8876/branches/v1_0_maint/examples/animation/animation_blit_gtk2.py
+END
+animation_blit_qt4.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8911/branches/v1_0_maint/examples/animation/animation_blit_qt4.py
+END
+movie_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/movie_demo.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/README.txt
+END
+draggable_legend.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/draggable_legend.py
+END
+strip_chart_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/strip_chart_demo.py
+END
+animation_blit_tk.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/animation/animation_blit_tk.py
+END

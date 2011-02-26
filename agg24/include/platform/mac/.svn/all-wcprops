@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/include/platform/mac
+END
+agg_mac_pmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/agg24/include/platform/mac/agg_mac_pmap.h
+END

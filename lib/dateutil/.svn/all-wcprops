@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil
+END
+rrule.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/rrule.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/LICENSE
+END
+tzwin.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/tzwin.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/parser.py
+END
+tz.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/tz.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/__init__.py
+END
+easter.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/easter.py
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/NEWS
+END
+relativedelta.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/relativedelta.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/dateutil/README
+END

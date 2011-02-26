@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/matplotlib/!svn/ver/8955/branches/v1_0_maint/lib/matplotlib
+END
+mpl.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/mpl.py
+END
+tight_bbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tight_bbox.py
+END
+type1font.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/type1font.py
+END
+docstring.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/docstring.py
+END
+patheffects.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8632/branches/v1_0_maint/lib/matplotlib/patheffects.py
+END
+cbook.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8812/branches/v1_0_maint/lib/matplotlib/cbook.py
+END
+mathtext.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/mathtext.py
+END
+legend.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8734/branches/v1_0_maint/lib/matplotlib/legend.py
+END
+_cm.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8725/branches/v1_0_maint/lib/matplotlib/_cm.py
+END
+transforms.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8649/branches/v1_0_maint/lib/matplotlib/transforms.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8907/branches/v1_0_maint/lib/matplotlib/__init__.py
+END
+cm.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matplotlib/!svn/ver/8933/branches/v1_0_maint/lib/matplotlib/cm.py
+END
+gridspec.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8667/branches/v1_0_maint/lib/matplotlib/gridspec.py
+END
+dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/dates.py
+END
+spines.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/spines.py
+END
+textpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/textpath.py
+END
+colors.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8931/branches/v1_0_maint/lib/matplotlib/colors.py
+END
+finance.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8884/branches/v1_0_maint/lib/matplotlib/finance.py
+END
+afm.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/afm.py
+END
+backend_bases.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matplotlib/!svn/ver/8778/branches/v1_0_maint/lib/matplotlib/backend_bases.py
+END
+artist.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8593/branches/v1_0_maint/lib/matplotlib/artist.py
+END
+lines.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8824/branches/v1_0_maint/lib/matplotlib/lines.py
+END
+quiver.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/quiver.py
+END
+bezier.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8720/branches/v1_0_maint/lib/matplotlib/bezier.py
+END
+ticker.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8891/branches/v1_0_maint/lib/matplotlib/ticker.py
+END
+_mathtext_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/_mathtext_data.py
+END
+pyplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8953/branches/v1_0_maint/lib/matplotlib/pyplot.py
+END
+patches.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8788/branches/v1_0_maint/lib/matplotlib/patches.py
+END
+hatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/hatch.py
+END
+_pylab_helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/_pylab_helpers.py
+END
+contour.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8920/branches/v1_0_maint/lib/matplotlib/contour.py
+END
+fontconfig_pattern.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/fontconfig_pattern.py
+END
+texmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/texmanager.py
+END
+path.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8647/branches/v1_0_maint/lib/matplotlib/path.py
+END
+offsetbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8564/branches/v1_0_maint/lib/matplotlib/offsetbox.py
+END
+font_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/matplotlib/!svn/ver/8712/branches/v1_0_maint/lib/matplotlib/font_manager.py
+END
+axes.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8920/branches/v1_0_maint/lib/matplotlib/axes.py
+END
+units.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/units.py
+END
+colorbar.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/colorbar.py
+END
+axis.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8652/branches/v1_0_maint/lib/matplotlib/axis.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/widgets.py
+END
+blocking_input.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/blocking_input.py
+END
+pylab.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8559/branches/v1_0_maint/lib/matplotlib/pylab.py
+END
+mlab.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8696/branches/v1_0_maint/lib/matplotlib/mlab.py
+END
+pyparsing.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/pyparsing.py
+END
+dviread.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8955/branches/v1_0_maint/lib/matplotlib/dviread.py
+END
+collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/matplotlib/!svn/ver/8799/branches/v1_0_maint/lib/matplotlib/collections.py
+END
+figure.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/figure.py
+END
+image.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8939/branches/v1_0_maint/lib/matplotlib/image.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matplotlib/!svn/ver/8846/branches/v1_0_maint/lib/matplotlib/text.py
+END
+rcsetup.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matplotlib/!svn/ver/8776/branches/v1_0_maint/lib/matplotlib/rcsetup.py
+END
+scale.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/scale.py
+END
+table.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/table.py
+END

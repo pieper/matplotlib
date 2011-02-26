@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/matplotlib/!svn/ver/8691/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification
+END
+clipper_edge.svg
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipper_edge.svg
+END
+clipping_diamond.png
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping_diamond.png
+END
+para_equal_perp.png
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/matplotlib/!svn/ver/8690/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/para_equal_perp.png
+END
+simplify_curve.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/simplify_curve.png
+END
+fft_peaks.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/matplotlib/!svn/ver/8691/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/fft_peaks.png
+END
+hatch_simplify.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/hatch_simplify.png
+END
+overflow.png
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/overflow.png
+END
+clipping.png
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping.png
+END
+clipper_edge.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipper_edge.pdf
+END
+clipping_diamond.svg
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping_diamond.svg
+END
+para_equal_perp.svg
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/matplotlib/!svn/ver/8690/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/para_equal_perp.svg
+END
+simplify_curve.svg
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/simplify_curve.svg
+END
+fft_peaks.svg
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/matplotlib/!svn/ver/8691/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/fft_peaks.svg
+END
+hatch_simplify.svg
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/hatch_simplify.svg
+END
+overflow.svg
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/overflow.svg
+END
+clipping.svg
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping.svg
+END
+clipper_edge.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipper_edge.png
+END
+clipping_diamond.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping_diamond.pdf
+END
+para_equal_perp.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/matplotlib/!svn/ver/8690/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/para_equal_perp.pdf
+END
+simplify_curve.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/simplify_curve.pdf
+END
+fft_peaks.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/matplotlib/!svn/ver/8691/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/fft_peaks.pdf
+END
+overflow.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/overflow.pdf
+END
+hatch_simplify.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/hatch_simplify.pdf
+END
+clipping.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/tests/baseline_images/test_simplification/clipping.pdf
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling
+END
+poly_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/poly_editor.py
+END
+pick_event_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/pick_event_demo.py
+END
+looking_glass.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/looking_glass.py
+END
+pipong.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/pipong.py
+END
+viewlims.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/viewlims.py
+END
+path_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/path_editor.py
+END
+legend_picking.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/legend_picking.py
+END
+timers.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/timers.py
+END
+idle_and_timeout.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/idle_and_timeout.py
+END
+close_event.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/close_event.py
+END
+pong_qt.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/pong_qt.py
+END
+pong_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/pong_gtk.py
+END
+resample.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/resample.py
+END
+keypress_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/keypress_demo.py
+END
+figure_axes_enter_leave.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/figure_axes_enter_leave.py
+END
+zoom_window.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/zoom_window.py
+END
+data_browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/data_browser.py
+END
+pick_event_demo2.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/pick_event_demo2.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/README.txt
+END
+lasso_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/examples/event_handling/lasso_demo.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matplotlib/!svn/ver/8817/branches/v1_0_maint/lib/matplotlib/projections
+END
+geo.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matplotlib/!svn/ver/8808/branches/v1_0_maint/lib/matplotlib/projections/geo.py
+END
+polar.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matplotlib/!svn/ver/8817/branches/v1_0_maint/lib/matplotlib/projections/polar.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matplotlib/!svn/ver/8512/branches/v1_0_maint/lib/matplotlib/projections/__init__.py
+END
